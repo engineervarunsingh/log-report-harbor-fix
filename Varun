@@ -1,0 +1,8 @@
+git clone https://github.com/engineervarunsingh/log-report-harbor-fix.git
+cd log-report-harbor-fix
+
+# Copy your repaired task files into the repository
+
+git add .
+git commit -m "Fix Harbor Terminal-Bench task"
+git push origin main
